@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: space-between">
   <div>
     <ul>
-      <li>🔭 I’m currently working on [EasyDoc](https://github.com/david-ruitter/EasyDoc)</li>
+      <li>🔭 I’m currently working on <a href="https://github.com/david-ruitter/EasyDoc">EasyDoc</a></li>
       <li>🌱 I’m currently learning Mathematics, GraphQL, E-Learning Methods</li>
     </ul>
   </div> 
