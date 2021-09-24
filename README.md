@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="display: flex; justify-content: space-between">
+<div style="display: flex; flex-flow: row;">
   <div>
     <ul>
       <li>🔭 I’m currently working on <a href="https://github.com/david-ruitter/EasyDoc">EasyDoc</a></li>
