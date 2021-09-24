@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [EasyDoc](https://github.com/david-ruitter/EasyDoc)
-- 🌱 I’m currently learning Mathematics, GraphQL, E-Learning Methods
+<div style="display: flex; justify-content: space-between">
+  <div>
+    <ul>
+      <li>🔭 I’m currently working on [EasyDoc](https://github.com/david-ruitter/EasyDoc)</li>
+      <li>🌱 I’m currently learning Mathematics, GraphQL, E-Learning Methods</li>
+    </ul>
+  </div> 
+  <div>  
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-ruitter)](https://github.com/anuraghazra/github-readme-stats)   
+  </div>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-ruitter)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **david-ruitter/david-ruitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
